@@ -21,4 +21,4 @@ git clone https://github.com/yosr-ghariani/Text-Summerization-with-SBERT
 
 * You can open the project in Jupyter Notebook or JupyterLab to run the code. 
 
-**Note**: This project was tested using a CPU setup.
+**Note**: This project was tested using a CPU setup on Google Colab.
