@@ -1,4 +1,4 @@
-# Text Summerization with SBERT
+# Text Summarization with SBERT
 
 This project consists of:
 
