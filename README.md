@@ -16,7 +16,7 @@ The python notebook includes all of the following steps:
 # Setup 
 * To set up the project, you can clone the repository using the following command:
 ```bash
-git clone https://github.com/yosr-ghariani/Text-Summerization-with-SBERT
+git clone https://github.com/yosr-ghariani/Text-Summarization-with-SBERT
 ```
 
 * You can open the project in Jupyter Notebook or JupyterLab to run the code. 
